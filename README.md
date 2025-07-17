@@ -89,8 +89,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 
-<div align="right">
-
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&layout=socrates)
 
-</div>
